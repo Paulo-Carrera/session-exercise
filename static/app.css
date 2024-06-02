@@ -1,0 +1,19 @@
+*{
+    font-family:'Courier New', Courier, monospace
+}
+h1{
+    color: #72aee6
+}
+
+p{
+    color: #0a4b78
+}
+
+button{
+background-color: #72aee6;
+color:#0a4b78
+}
+
+hr{
+    margin-top:50px
+}
